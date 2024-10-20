@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Max Almeida, and I'm an Infrastructure Analyst and a DevOps enthusiast from São José dos Campos, Brazil. I love exploring new technologies and building innovative solutions to streamline processes!</h2>
-
+<h2 align="left">Hi 👋! My name is Max Almeida
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.webp?cid=ecf05e475xf5fno9ovifrdpvygqxug3mtg1f5bd563a2y7h8&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
